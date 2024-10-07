@@ -9,7 +9,7 @@ This project is a reimagined version of the classic Pac-Man game, implemented us
 1. Ensure Greenfoot is installed
 2. Clone the repository:
    ```bash
-   git clone https://github.com/diecethan/pacman
+   git clone https://github.com/diecethan/pacman.git
    cd pacman
 3. Open the project in Greenfoot.
 4. Run the game by clicking the "Run" button in Greenfoot.
